@@ -1,0 +1,4 @@
+image_matching_app/__pycache__
+__pycache__
+image_matching_app/image_matching_algorithm/__pycache__
+*.so

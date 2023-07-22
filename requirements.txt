@@ -1,0 +1,9 @@
+Django
+djangorestframework
+kornia
+kornia-rs
+kornia_moons
+opencv-python
+drf-yasg
+Pillow
+numpy
